@@ -1,0 +1,25 @@
+"*":
+  "atom-beautify":
+    general:
+      beautifyEntireFileOnSave: false
+  core:
+    disabledPackages: [
+      "linter-jshint"
+    ]
+    telemetryConsent: "no"
+    themes: [
+      "lame-sauce-ui"
+      "monokai-dark"
+    ]
+  editor:
+    fontFamily: "Hack"
+    lineHeight: 1.6
+    showIndentGuide: true
+    softWrap: true
+  "exception-reporting":
+    userId: "61c8f270-b112-42b4-a921-14d4bf7ab58b"
+  "linter-ui-default": {}
+  pigments:
+    markerType: "dot"
+  welcome:
+    showOnStartup: false
